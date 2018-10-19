@@ -1,4 +1,4 @@
-# Heinin harjoitustyö
+# tikape-runko
 
-Tietokantojen perusteet -kurssin harjoitustyö
+Tietokantojen perusteet -kurssilla tehtävän web-sovelluksen pohja.
 
