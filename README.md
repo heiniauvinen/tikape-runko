@@ -1,4 +1,6 @@
-# tikape-runko
+Tikape harjoitustyö
 
-Tietokantojen perusteet -kurssilla tehtävän web-sovelluksen pohja.
+
+
+
 
